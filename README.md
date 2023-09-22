@@ -1,12 +1,13 @@
 # Python QR MAKER (BASIC)
-## Install libraries  
-> pip install -r requirements.txt
 ## Clone github repository
 > git clone https://github.com/Chamod-Gamhewa/Python-QR-Maker-BASIC  
-> cd "Python-QR-Maker-BASIC"
+> cd Python-QR-Maker-BASIC
+## Install libraries  
+> pip install -r requirements.txt
 ## Activate virtual environment
 > cd scripts  
-> activate
+> activate  
+> cd ..
 ## Config QR attributes. (Edit config.json for your requirement)
 > {  
 "qr_forground": "qr forground color",  
