@@ -1,0 +1,6 @@
+{
+    "qr_forground": "#FF0000",
+    "qr_background": "white",
+    "box_size": 10,
+    "border": 10
+}
