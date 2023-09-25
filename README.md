@@ -12,7 +12,7 @@
     "border": qr border size (px)  
 }
 ## Run application
-> python3 main.py
+> python main.py
 ## Select QR mode
 > Bulk or Single  
 > If bulk mode selected, add details into details.txt and run program
